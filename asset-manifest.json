@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/printforge/static/css/main.31d5cff7.css",
+    "main.js": "/printforge/static/js/main.0468f59f.js",
+    "index.html": "/printforge/index.html",
+    "main.31d5cff7.css.map": "/printforge/static/css/main.31d5cff7.css.map",
+    "main.0468f59f.js.map": "/printforge/static/js/main.0468f59f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d5cff7.css",
+    "static/js/main.0468f59f.js"
+  ]
+}
